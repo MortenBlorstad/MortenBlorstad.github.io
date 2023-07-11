@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Machine Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate/graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2022-01-01
+location: "Bergen, Norway"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistance in Introduction to Machine Learning
+
 
 Heading 1
 ======
