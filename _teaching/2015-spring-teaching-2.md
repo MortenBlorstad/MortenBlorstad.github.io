@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Algorithms, Data Structures and Programming"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course,"
+permalink:
+venue: "University of Bergen"
+date: 2021-01-01
+location: "Bergen, Norway"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistance in Algorithms, Data Structures and Programming.
 
 Heading 1
 ======
