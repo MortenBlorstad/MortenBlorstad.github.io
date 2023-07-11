@@ -1,7 +1,7 @@
 ---
 title: "Algorithms, Data Structures and Programming"
 collection: teaching
-type: "Undergraduate course,"
+type: "Undergraduate course"
 permalink:
 venue: "University of Bergen"
 date: 2021-01-01
