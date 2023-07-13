@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Bergen, Norway"
 ---
 
-Teaching assistance in Reinforcement Learning.
+Teaching assistant in Reinforcement Learning.
 
 Heading 1
 ======
