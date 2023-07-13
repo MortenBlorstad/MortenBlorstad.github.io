@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Bergen, Norway"
 ---
 
-Teaching assistance in Introduction to Machine Learning
+Teaching assistant in Introduction to Machine Learning
 
 
 Heading 1
