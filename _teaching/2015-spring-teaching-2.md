@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "Bergen, Norway"
 ---
 
-Teaching assistance in Algorithms, Data Structures and Programming.
+Teaching assistant in Algorithms, Data Structures and Programming.
 
 Heading 1
 ======
