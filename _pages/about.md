@@ -11,5 +11,5 @@ Come October, I will start a new chapter in my academic journey by becoming a pa
 
 I completed my master’s in machine learning at UiB this spring where I focused on improving the stability of tree-based methods under the direction of Associate Professor [Nello Blaser](https://www.uib.no/personer/Nello.Blaser){:target="_blank"} and [Berent Lunde](https://berentlunde.netlify.app/){:target="_blank"}, PhD. 
 
-I also hold a master’s in economics from the [University of Agder](https://www.uia.no){:target="_blank"}, specializing in financial economics. In my thesis, I analyse whether the performance of Norwegian fund managers can be attributed to skill or lack thereof supervised by Professor [Valeriy Zakamulin](https://www.uia.no/kk/profil/valeriz){:target="_blank"}. 
+I also hold a master’s in economics from the [University of Agder](https://www.uia.no){:target="_blank"}, specializing in financial economics. In my thesis, I analysed whether the performance of Norwegian fund managers can be attributed to skill or lack thereof, supervised by Professor [Valeriy Zakamulin](https://www.uia.no/kk/profil/valeriz){:target="_blank"}. 
 
