@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Morten Blørstad"
   avatar           : "profile.png"
-  bio              : "PhD research fellow @ UiB & Data scientist @ Visito"
+  bio              : "PhD research fellow @ UiB & data scientist @ Visito"
   location         : "University of Bergen"
   employer         :
   pubmed           : 
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: false
+#    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
